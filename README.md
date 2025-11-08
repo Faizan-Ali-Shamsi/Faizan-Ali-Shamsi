@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan</h1>
 <h3 align="center">Aspiring QA Automation Engineer | Python & Selenium Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-ali-shamsi" alt="faizan-ali-shamsi" /></a> </p>
-
 - 🔭 I’m currently working on **building QA automation frameworks from scratch using Python and Selenium. I focus on creating clean, maintainable, and scalable test automation code.**
 
 - 🌱 I’m always learning **new things in QA automation and looking for opportunities to contribute and grow as a QA engineer.**
